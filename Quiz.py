@@ -9,19 +9,19 @@ else :
     print("the correct answer is valmiki")
 print("2)Who is the mother of Karna?")
 answer = input("your answer:")
-if answer.lower() == "Kunti devi":
+if answer.lower() == "kunti devi":
     print("That’s right!")
 else :
      print("the correct answer is Kunti devi")
 print("3)What is the real name of Bhishma pitamah?")
 answer = input("your answer:")
-if answer.lower()== "Devavrata":
+if answer.lower()== "devavrata":
     print("Great going!")
 else :
      print("the correct answer is Devavrata")
 print("4)Who is the prime minister of india?")
 answer = input("your answer:")
-if answer.lower()=="Narendra modi":
+if answer.lower()=="narendra modi":
      print("Bullseye!")
 else :
      print("The answer is Narendra modi")
